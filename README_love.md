@@ -1,13 +1,7 @@
-```bash
-nano README.md
-```
-
-Paste teks di bawah ini ke dalam nano, lalu simpan (Ctrl+O, Enter, Ctrl+X):
-
-```markdown
+```html
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=LOVE+PACKAGE+MANAGER;Install+Love,+Uninstall+Heartbreak" alt="Typing SVG" />
+
+  <h2 style="color: #FF0000;">Kamu mengunci sistemmu terlalu rapat.<br>Aku lelah mencoba brute-force perasaan yang memang tak pernah ada untukku.</h2>
 
   <br>
 
@@ -59,12 +53,3 @@ python lovetool.py
 Tool ini dibuat murni untuk hiburan (entertainment). Tidak ada paket cinta yang benar-benar diinstal ke sistem kamu.
 
 ```
-
-Setelah itu, copy ke folder Download:
-```bash
-cp ~/love-repo/README.md /storage/emulated/0/Download/README_love.md
-```
-
-Buka browser, masuk ke repo GitHub lu, klik Add file > Upload files, pilih README_love.md, rename jadi README.md, lalu klik Commit changes.
-
-[RAW·0]
