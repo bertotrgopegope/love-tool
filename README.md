@@ -1,7 +1,7 @@
 ```html
 <div align="center">
 
-  <h2 style="color: #FF0000;">Kamu mengunci sistemmu terlalu rapat.<br>Aku lelah mencoba brute-force perasaan yang memang tak pernah ada untukku.</h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Kamu+mengunci+sistemmu+terlalu+rapat.;Aku+lelah+mencoba+brute-force+perasaan;yang+memang+tak+pernah+ada+untukku." alt="Typing SVG" />
 
   <br>
 
