@@ -1,7 +1,5 @@
 <img src="From Klickpin.com- Smart social dialogue prompts for people who love beauty this season that stay calm and fair-pin-id-455004368607343541 (1).gif" width="100%">
 <br>
-
-
 <img src="From Klickpin.com- Wedding Favor Ideas That Feel So Put Together 67324-pin-id-962785226588406274.gif" width="100%">
 
 <div align="center">
