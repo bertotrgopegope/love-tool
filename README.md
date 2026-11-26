@@ -1,3 +1,6 @@
+<video src="From Klickpin.com-599119556725474668-pin-id-599119556725474668.mp4" width="100%" controls></video>
+
+
 <div align="center">
   <h1 style="color: #FF0000;">Kamu mengunci sistemmu terlalu rapat.<br>Aku lelah mencoba brute-force perasaan yang memang tak pernah ada untukku.</h1>
 
