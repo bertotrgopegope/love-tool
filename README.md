@@ -22,7 +22,6 @@
 · [2] Uninstall Love - Hapus memori cinta (move on mode).
 · [3] Search Love - Cari keberadaan cinta di database semesta.
 · [4] Blocked Love - Blokir akses cinta yang toxic.
-· Custom UI - Banner animasi Chafa dengan tema merah menyala.
 
 🛠️ Instalasi
 
