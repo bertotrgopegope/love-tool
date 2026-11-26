@@ -1,3 +1,4 @@
+<img src="From Klickpin.com- Wedding Favor Ideas That Feel So Put Together 67324-pin-id-962785226588406274.gif" width="100%">
 
 <div align="center">
   <h1 style="color: #FF0000;">Kamu mengunci sistemmu terlalu rapat.<br>Aku lelah mencoba brute-force perasaan yang memang tak pernah ada untukku.</h1>
